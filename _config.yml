@@ -50,7 +50,7 @@ excerpt_separator: "<!--more-->"
 category_colors:
   computer-vision: "#2196F3"
   deep-learning: "#9C27B0"
-  ai-fariness: "#F44336"
+  ai-fairness: "#F44336"
   mental-health: "#BC6FF1"
   soft-skills: "#FF9800"
   
