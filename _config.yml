@@ -47,3 +47,8 @@ exclude:
 
 excerpt_separator: "<!--more-->"
 
+category_colors:
+  ai-fairness: #3FC1C9
+  mental-health: #FC5185
+  soft-skills:  #FFD369
+  computer-vision: #00A8CC
