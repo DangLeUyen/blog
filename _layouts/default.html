@@ -82,11 +82,6 @@
     
         <!-- Categories Section -->
 
-
-<div class="categories-container">
-  {{ site.categories | jsonify }}
-</div>
-
     <div class="categories-container">
     {% for cat in site.categories %}
     {% assign cat_name = cat.first %}
