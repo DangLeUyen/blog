@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% assign posts = site.categories[page.category] %}
+
+{% for post in posts %}
+<article class="post-preview">
+  <h2>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </h2>
+
+  <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+
+  <small>{{ post.date | date: "%b %d, %Y" }}</small>
+</article>
+{% endfor %}
