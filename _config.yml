@@ -1,7 +1,7 @@
 # Site settings
 title: Uyen Dang
 description: "better late than never"
-baseurl: "/Uyenblog"
+baseurl: "/blog"
 url: "https://dangleuyen.github.io"
 #email: dtleuyen@gmail.com
 #description: My research interests include Medical Imaging, XAI, and AI Fairness
