@@ -83,17 +83,17 @@
         <!-- Categories Section -->
 
     <div class="categories-container">
-    {% for cat in site.categories %}
-    {% assign cat_name = cat.first %}
-    {% assign color = site.category_colors[cat_name] | default: "#FFFFFF" %}
-  
-    <a class="category-pill"
-       style="background-color: {{ color }}"
-       href="{{ '/categories/' | relative_url }}">
-      {{ cat_name }}
-    </a>
-  {% endfor %}
-  </div>
+      {% for cat in site.categories %}
+        {% assign slug = cat[0] | slugify %}
+        {% assign color = site.category_colors[slug] | default: "#607D8B" %}
+    
+        <a class="category-pill"
+           style="background-color: {{ color }}"
+           href="{{ '/categories/#' | append: slug | relative_url }}">
+          {{ cat[0] }}
+        </a>
+      {% endfor %}
+    </div>
 
     <main id="main-content" class="container" tabindex="-1">{{ content }}</main>
 
