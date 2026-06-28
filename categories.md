@@ -4,20 +4,23 @@ title: Categories
 permalink: /categories/
 ---
 
-{% assign category_name = page.category %}
+{% assign sorted_categories = site.categories | sort %}
 
-{% for post in site.categories[category_name] %}
-<article class="post-card">
-  <h2>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </h2>
+{% for category in sorted_categories %}
+<section class="category-section"
+         id="{{ category[0] | slugify }}">
 
-  <p class="post-meta">
-    {{ post.date | date: "%B %-d, %Y" }}
-  </p>
+  <h2>{{ category[0] }}</h2>
 
-  <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
+  {% assign posts = category[1] | sort: "date" | reverse %}
 
-  <a href="{{ post.url | relative_url }}">Read more →</a>
-</article>
+  {% for post in posts %}
+    <article class="post-card">
+      <h3>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+    </article>
+  {% endfor %}
+
+</section>
 {% endfor %}
