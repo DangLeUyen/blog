@@ -9,12 +9,12 @@ layout: default
     {% if page.categories %}
       {% for category in page.categories %}
         {% assign slug = category | slugify %}    
-        {% assign color = site.category_colors[category] | default: "#607D8B" %}
+        {% assign color = site.category_colors[slug] | default: "#607D8B" %}
 
         <a class="category-pill"
-           style="background-color: {{ colors[color_index] }}"
+           style="background-color: {{ color }}"
           href="{{ '/categories/#' | append: slug | relative_url }}">
-          {{ category | replace: "-", " " }}
+          {{ cat[0] }}
         </a>
       {% endfor %}
     {% endif %}
