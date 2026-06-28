@@ -1,0 +1,49 @@
+# Site settings
+title: Uyen Dang
+description: "better late than never"
+baseurl: "/Uyenblog"
+url: "https://dangleuyen.github.io"
+#email: dtleuyen@gmail.com
+#description: My research interests include Medical Imaging, XAI, and AI Fairness
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Pagination settings
+paginate: 5
+paginate_path: "/page:num/"
+
+# Collections
+# Note: _posts collection is built-in to Jekyll and doesn't need to be declared
+
+# Google Analytics
+# Add your Google Analytics 4 measurement ID here (format: G-XXXXXXXXXX)
+# Leave empty in version control and set environment-specific values via config overlays
+google_analytics: ""
+
+# Social Media & Content Sharing
+# Configure for better social sharing (X, Facebook, LinkedIn, etc.)
+social:
+  twitter_handle: ""  # Your X/Twitter handle (without @)
+  author: "Uyen Dang"              # Default author name
+  default_image: "/assets/image/default-share.jpg"  # Fallback image for social sharing
+
+# Exclude from build
+exclude:
+  - .bundle
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - _posts/POST_ORGANIZATION_GUIDE.md
+
+excerpt_separator: "<!--more-->"
+
