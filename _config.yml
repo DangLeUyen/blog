@@ -48,8 +48,9 @@ exclude:
 excerpt_separator: "<!--more-->"
 
 category_colors:
-  machine-learning: "#2196F3"
+  computer-vision: "#2196F3"
   deep-learning: "#9C27B0"
   ai-fariness: "#F44336"
-  mental-health: "#4CAF50"
+  mental-health: "#BC6FF1"
   soft-skills: "#FF9800"
+  
