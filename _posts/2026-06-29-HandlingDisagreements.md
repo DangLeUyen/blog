@@ -13,6 +13,7 @@ When you have conversations at work or in daily life, differences in opinions ar
 There is no one-size-fits-all approach to handling disagreements. Before responding, take a moment to assess the situation from two important perspectives.
 
 - **Evaluate the relationship.** Consider how important your relationship with the other person is. Is it a close colleague, your manager, a client, or a friend? Think about your long-term goal. Sometimes preserving trust and collaboration is more valuable than proving you're right.
+  
 - **Consider the power dynamics.** Be aware of the context and each person's role. Disagreeing with a peer may require a different approach than disagreeing with a supervisor or someone you manage. Understanding the power dynamics helps you choose an appropriate tone and communication style while still expressing your ideas confidently.
 
 ### 2. Practice to handle disagreements
