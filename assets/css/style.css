@@ -32,7 +32,7 @@ html {
 body {
   font-family: "Inter", sans-serif;
   font-feature-settings: "calt" 1, "liga" 1;
-  font-size: 1.0625rem;
+  font-size: 1rem;
   line-height: 1.75;
   color: var(--text);
   background: var(--bg);
