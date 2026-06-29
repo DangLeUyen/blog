@@ -5,8 +5,6 @@ date: 2026-06-27
 categories: Soft-Skills
 ---
 
-<!--more-->
-
 Speaking in public or presenting your ideas to an audience—especially executives or professionals—can be intimidating. Your heart races, your palms become sweaty, and your mind may suddenly go blank. 
 The good news is that nervousness is completely normal, and it can be managed. One practical framework is BREATHE, an acronym that helps you remember seven techniques to reduce anxiety and build confidence before and during a presentation.
 
@@ -17,6 +15,8 @@ The good news is that nervousness is completely normal, and it can be managed. O
 - **T**: Terminate negative self talk
 - **H**: Heart rate up
 - **E**: Empathize
+
+<!--more-->
 
 ### 1. Breath
 Before stepping onto the stage or beginning your presentation, find a quiet place if possible. Stretch your body, stand in a confident posture, and take several slow, deep breaths.
