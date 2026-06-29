@@ -13,5 +13,6 @@ layout: default
   <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
 
   <small>{{ post.date | date: "%b %d, %Y" }}</small>
+  <a href="{{ post.url | relative_url }}" class="read-more">Read more<span class="visually-hidden"> about {{ post.title }}</span> &rarr;</a>
 </article>
 {% endfor %}
