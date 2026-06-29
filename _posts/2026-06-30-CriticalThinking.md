@@ -15,12 +15,14 @@ Three thinking skills are especially valuable in today's world: **critical think
 
 <!--more-->
 
+
 ### 1. What is critical thinking?
 Critical thinking is the ability to think clearly, objectively, and logically. Rather than accepting information at face value, critical thinkers question assumptions, evaluate evidence, and consider different perspectives before reaching a conclusion.
 
 It is not our natural or default way of thinking. Our brains often rely on intuition, habits, or emotions because they are faster and require less effort. Critical thinking, on the other hand, is a skill that requires conscious practice—and one that anyone can develop over time.
 
 Whether you're reading the news, making an important decision, or solving a problem at work, critical thinking helps you separate facts from opinions and make more informed judgments.
+
 
 ### 2. Critical thinking vs Creative thinking vs Strategic thinking
 #### Critical thinking
@@ -57,6 +59,7 @@ A strategic thinker asks questions such as:
 
 Whenever you're identifying patterns, analyzing trends, weighing trade-offs, or planning for the future, you're using strategic thinking.
 
+
 ### 3. Recognizing these types of thinking
 Imagine you're working for a company that wants to improve building security. An employee proposes using facial recognition technology instead of traditional key cards.
 
@@ -72,11 +75,11 @@ A critical thinker evaluates whether the proposal is supported by evidence.
 
 They might ask:
 
-- Is facial recognition actually more accurate than key cards?
-- What evidence supports these claims?
-- Are there privacy or ethical concerns?
-- What happens if the system incorrectly identifies someone?
-- What are the potential risks and limitations?
+- *Is facial recognition actually more accurate than key cards?*
+- *What evidence supports these claims?*
+- *Are there privacy or ethical concerns?*
+- *What happens if the system incorrectly identifies someone?*
+- *What are the potential risks and limitations?*
 
 The goal is to determine whether the proposal is valid and well supported.
 
