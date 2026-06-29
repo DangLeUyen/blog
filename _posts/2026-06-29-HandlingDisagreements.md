@@ -19,7 +19,7 @@ There is no one-size-fits-all approach to handling disagreements. Before respond
 \t  - You can list some possible assumptions that you're making.
     - Then make a list of three positive intents that the person my have.
     - Approaching the discussion with curiosity rather than certainty makes it easier to have a productive conversation.
-    - 
+      
 - **Pace.** During the conversation, slow down and focus on understanding before responding.
   - Ask open-ended questions to understand the other person's perspective.
   - Acknowledge their viewpoint and show appreciation for their reasoning, even if you disagree.
