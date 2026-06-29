@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Critical Thinking"
-date: 2026-06-30
+date: 2026-06-29
 categories: Soft-Skills
 ---
 
