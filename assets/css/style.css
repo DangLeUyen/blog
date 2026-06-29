@@ -32,7 +32,7 @@ html {
 body {
   font-family: "Inter", sans-serif;
   font-feature-settings: "calt" 1, "liga" 1;
-  font-size: 0.8rem;
+  font-size: 0.95rem;
   line-height: 1.75;
   color: var(--text);
   background: var(--bg);
@@ -142,7 +142,7 @@ body {
     padding:5px 14px;
     border-radius:999px;
 
-    font-size:0.85rem;
+    font-size:0.8rem;
     font-weight:600;
 
     transition:.2s;
@@ -168,7 +168,7 @@ header {
 }
 
 header h1 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   margin-bottom: 0.2rem;
   letter-spacing: -0.01em;
 }
@@ -243,7 +243,7 @@ main {
 }
 
 .blog-item h3 {
-  font-size: 1.35rem;
+  font-size: 1.3rem;
   line-height: 1.35;
   margin-bottom: 0.3rem;
   letter-spacing: -0.01em;
@@ -279,7 +279,7 @@ main {
   gap: 0.25rem;
   color: var(--accent);
   font-weight: 500;
-  font-size: 0.9375rem;
+  font-size: 0.9rem;
   text-decoration: underline;
   text-underline-offset: 3px;
   transition: color var(--transition), gap var(--transition);
@@ -342,7 +342,7 @@ main {
 }
 
 .post-title {
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 1.2;
   margin-bottom: 0.5rem;
   letter-spacing: -0.02em;
@@ -381,8 +381,8 @@ main {
   letter-spacing: -0.01em;
 }
 
-.post-content h2 { font-size: 1.6rem; }
-.post-content h3 { font-size: 1.3rem; }
+.post-content h2 { font-size: 1.5rem; }
+.post-content h3 { font-size: 1.2rem; }
 .post-content h4 { font-size: 1.1rem; }
 .post-content h5 { font-size: 1rem; font-weight: 700; }
 .post-content h6 { font-size: 0.9rem; color: var(--muted); font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
@@ -424,7 +424,7 @@ main {
 .post-content code {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
     "Liberation Mono", "Courier New", monospace;
-  font-size: 0.875em;
+  font-size: 0.85em;
   background: var(--code-bg);
   color: var(--code-text);
   padding: 0.15rem 0.4rem;
@@ -439,7 +439,7 @@ main {
   padding: 1.1rem 1.25rem;
   border-radius: var(--radius);
   overflow-x: auto;
-  font-size: 0.9rem;
+  font-size: 0.87rem;
   line-height: 1.6;
 }
 
@@ -497,7 +497,7 @@ main {
   overflow-x: auto;
   width: 100%;
   border-collapse: collapse;
-  font-size: 0.9375rem;
+  font-size: 0.9rem;
 }
 
 .post-content table th {
@@ -542,7 +542,7 @@ footer {
 
 footer p {
   color: var(--muted);
-  font-size: 0.875rem;
+  font-size: 0.85rem;
 }
 
 /* ============================
