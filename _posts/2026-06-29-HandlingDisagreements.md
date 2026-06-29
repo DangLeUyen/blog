@@ -34,10 +34,12 @@ There is no one-size-fits-all approach to handling disagreements. Before respond
   *Listen intently, hold your position lightly, and express appreciation generously.*
 
 - **Process.** Once everyone's viewpoints have been shared, shift the conversation toward finding a solution.
+
   - Instead of asking *"Who is right?"*, ask:
     - *What problem are we trying to solve?*
     - *What do we agree on?*
     - *What action can we take together?*
+
   - After the conversation, spend a few minutes reflecting.
     - *What went well?*
     - *What could you have communicated more effectively?*
