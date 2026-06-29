@@ -23,6 +23,7 @@ permalink: /categories/
       </p>
 
       {{ post.excerpt }}
+      <a href="{{ post.url | relative_url }}" class="read-more">Read more<span class="visually-hidden"> about {{ post.title }}</span> &rarr;</a>
     </article>
   {% endfor %}
 </section>
