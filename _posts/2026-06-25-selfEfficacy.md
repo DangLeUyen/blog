@@ -5,10 +5,12 @@ date: 2026-06-25
 categories: Soft-Skills
 ---
 
+Self-efficacy is a psychological concept introduced by Albert Bandura in his 1997 book **Self-Efficacy: The Exercise of Control** [1]. It refers to a person's belief in their ability to organize and execute the actions required to achieve a specific goal or perform a particular task. In other words, self-efficacy is not about the skills you have, but about your confidence in using those skills effectively when facing challenges.
+
 <!--more-->
 
 ### 1. What is Self-Efficacy?
-Simply put, self-efficacy is your belief in your ability to achieve a specific goal or complete a particular task [1]. 
+Simply put, self-efficacy is your belief in your ability to achieve a specific goal or complete a particular task. 
 
 For example, imagine that you are usually too shy to speak up in class. At the same time, you know that communication skills are important, and you want to improve yours. One day, you decide to change your behavior by raising your hand and sharing your thoughts during a class discussion.
 
