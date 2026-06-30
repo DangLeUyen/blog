@@ -44,17 +44,28 @@ permalink: /categories/
 {% endfor %}
 
 <script>
-document.addEventListener("DOMContentLoaded", function () {
+function showCategory() {
     const hash = window.location.hash.substring(1);
     const sections = document.querySelectorAll(".category-section");
 
-    if (hash) {
-        sections.forEach(s => s.style.display = "none");
-
-        const selected = document.getElementById(hash);
-        if (selected) {
-            selected.style.display = "block";
-        }
+    if (!hash) {
+        // Show all categories if no hash
+        sections.forEach(section => {
+            section.style.display = "block";
+        });
+        return;
     }
-});
+
+    sections.forEach(section => {
+        section.style.display = "none";
+    });
+
+    const selected = document.getElementById(hash);
+    if (selected) {
+        selected.style.display = "block";
+    }
+}
+
+document.addEventListener("DOMContentLoaded", showCategory);
+window.addEventListener("hashchange", showCategory);
 </script>
