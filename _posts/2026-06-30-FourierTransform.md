@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fourier Transform"
-date: 2026-07-01
+date: 2026-06-30
 categories: Signal-Processing
 ---
 
