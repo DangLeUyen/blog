@@ -18,13 +18,15 @@ There is no one-size-fits-all approach to handling disagreements. Before respond
 
 ### 2. Practice to handle disagreements
 
-- **Prepare.** Before entering the conversation, take time to examine your own thinking.
+#### Prepare
+Before entering the conversation, take time to examine your own thinking.
   
   - You can list some possible assumptions that you're making.
   - Then make a list of three positive intents that the person my have.
   - Approaching the discussion with curiosity rather than certainty makes it easier to have a productive conversation.
       
-- **Pace.** During the conversation, slow down and focus on understanding before responding.
+#### Pace
+During the conversation, slow down and focus on understanding before responding.
   
   - Ask open-ended questions to understand the other person's perspective.
   - Acknowledge their viewpoint and show appreciation for their reasoning, even if you disagree.
@@ -33,7 +35,8 @@ There is no one-size-fits-all approach to handling disagreements. Before respond
   
   *Listen intently, hold your position lightly, and express appreciation generously.*
 
-- **Process.** Once everyone's viewpoints have been shared, shift the conversation toward finding a solution.
+#### Process
+Once everyone's viewpoints have been shared, shift the conversation toward finding a solution.
 
   - Instead of asking *"Who is right?"*, ask:
     - *What problem are we trying to solve?*
@@ -47,12 +50,12 @@ There is no one-size-fits-all approach to handling disagreements. Before respond
 
 Every disagreement is an opportunity to strengthen your communication skills and build better relationships.
 
-**Final Thoughts**
+#### Final Thoughts
 
 Disagreements are not signs of poor communication—they are opportunities to learn, collaborate, and make better decisions. By assessing the situation, preparing thoughtfully, communicating with empathy, and focusing on problem-solving, you can express your opinions confidently without damaging relationships.
 
 Remember, the goal is rarely to **win the argument**. The goal is to **understand each other well enough to move forward together**.
 
-**Reference**
+#### Reference
 
 This article is based on concepts from the LinkedIn Learning course *Communication Foundations*.
