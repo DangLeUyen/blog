@@ -48,5 +48,5 @@ For example, before giving a presentation, a student may notice a racing heart a
 
 Learning to manage stress and regulate emotions can therefore help strengthen self-efficacy and improve performance.
 
-**References**
+#### References
 [1] Bandura, A. (1997). Self-efficacy: The exercise of control (Vol. 11). Freeman.
