@@ -75,13 +75,13 @@ One of the most effective ways to reduce anxiety is to shift your focus away fro
 Instead of worrying about how you look or sound, think about your audience.
 
 Ask yourself:
-- What do they need?
-- How can my presentation help them?
-- What value can I provide?
+- *What do they need?*
+- *How can my presentation help them?*
+- *What value can I provide?*
 
 When your attention is on helping others rather than judging yourself, your fear naturally begins to fade.
 
-**Final Thoughts**
+#### Final Thoughts
 
 No one is born a confident public speaker. Confidence is built through preparation, practice, and experience.
 
@@ -89,6 +89,6 @@ The next time you feel nervous before a presentation, remember to **BREATHE**.
 
 With consistent practice, you'll discover that confidence isn't the absence of fear—it's learning how to speak despite it.
 
-**Reference**
+#### Reference
 
 This article is based on concepts from the LinkedIn Learning course *Communication Foundations*.
