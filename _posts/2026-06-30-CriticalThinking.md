@@ -15,7 +15,6 @@ Three thinking skills are especially valuable in today's world: **critical think
 
 <!--more-->
 
-
 ### 1. What is critical thinking?
 Critical thinking is the ability to think clearly, objectively, and logically. Rather than accepting information at face value, critical thinkers question assumptions, evaluate evidence, and consider different perspectives before reaching a conclusion.
 
