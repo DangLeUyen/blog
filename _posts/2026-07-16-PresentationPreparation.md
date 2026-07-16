@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Presentation skills"
-date: 2026-07-13
+date: 2026-07-16
 categories: Soft-Skills
 ---
 
