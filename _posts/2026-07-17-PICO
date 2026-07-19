@@ -57,7 +57,7 @@ Comparators may include:
 - Placebo
 - No treatment
 - Another intervention
--0 Existing machine learning models
+- Existing machine learning models
 
 Example:
 - Explainable AI vs. traditional machine learning
@@ -77,8 +77,26 @@ Common outcomes include:
 
 The outcome should be measurable and directly related to your research objective.
 
-### Final Thoughts
+### Example
 
+Instead of saying:
+
+*"Does wearable technology help dementia patients?"*
+
+A PICO-formulated question becomes:
+- Population (P): People with dementia
+- Intervention (I): Explainable AI models using wearable sensor data
+- Comparison (C): Existing machine learning models
+- Outcome (O): Performance prediction of agitation episodes and clinically meaningful interpretations
+
+Research Question:
+
+*Among people with dementia, do explainable AI models based on wearable sensor data provide more precision and clinically interpretable predictions of agitation episodes than existing machine learning models?*
+
+### Final Thoughts
+A strong research project begins with a well-structured research question. The PICO framework provides a simple yet powerful way to organize your thinking by clearly defining the Population, Intervention, Comparison, and Outcome.
+
+Although PICO was originally developed for clinical research, it has also been widely adopted in health informatics, public health, nursing, and other evidence-based disciplines. Whether you are conducting a systematic literature review, designing a clinical trial, or developing an AI solution for healthcare, PICO can help you build a focused research question and improve the quality of your research.
 
 ### References
 - Schardt, C., Adams, M. B., Owens, T., Keitz, S., & Fontelo, P. (2007). Utilization of the PICO framework to improve searching PubMed for clinical questions. BMC medical informatics and decision making, 7(1), 16.
