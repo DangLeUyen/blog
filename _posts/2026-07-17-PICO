@@ -32,8 +32,22 @@ Example:
 Defining the population clearly helps ensure that your research is relevant to the intended audience.
 
 ### 2. Intervention
-What type of intervention is being considered?
-Interventions can include medication, surgery, or therapy.
+The Intervention is the treatment, procedure, exposure, or strategy you want to investigate.
+
+Interventions may include:
+- Medication
+- Surgery
+- Physical therapy
+- Lifestyle modification
+- Educational programs
+- Diagnostic tests
+- Artificial intelligence or machine learning methods (in health informatics research)
+
+Example:
+- A new blood pressure medication
+- Exercise therapy
+- Wearable sensor monitoring
+- An explainable AI model for predicting agitation
 
 ### 3. Comparision
 What are you comparing the intervention against?
