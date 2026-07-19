@@ -50,8 +50,19 @@ Example:
 - An explainable AI model for predicting agitation
 
 ### 3. Comparision
-What are you comparing the intervention against?
-Comparators could be a gold standard treatment, or no treatment at all
+The Comparison identifies what the intervention will be compared against. In some studies, a comparison may not be necessary, but when included, it helps determine whether the intervention performs better than an alternative.
+
+Comparators may include:
+- Standard treatment (gold standard)
+- Placebo
+- No treatment
+- Another intervention
+-0 Existing machine learning models
+
+Example:
+- Explainable AI vs. traditional machine learning
+- Drug A vs. Drug B
+- Exercise therapy vs. usual care
 
 ### 4. Outcome
 What are you hoping to achieve because of the intervention? 
