@@ -4,7 +4,11 @@ title: "PICO Framework"
 date: 2026-07-17
 categories: Research
 ---
-Formulating a research question is a crucial step in directing any scientific study. One of the classical framework to help researchers define a research question is **PICO**.
+Formulating a clear research question is one of the most important steps in any scientific study. A well-defined research question guides the study design, literature search, data collection, and analysis. Without a focused question, research can easily become broad and difficult to manage.
+
+One of the most widely used frameworks for developing research questions, particularly in evidence-based medicine and healthcare research, is the PICO framework. PICO helps researchers identify the key components of a clinical question and organize them into a structured format.
+
+The acronym **PICO** stands for:
 - **P** - Population
 - **I** - Intervention
 - **C** - Comparison
@@ -30,5 +34,6 @@ What are you hoping to achieve because of the intervention?
 ### Final Thoughts
 
 
-## References
+### References
+- Schardt, C., Adams, M. B., Owens, T., Keitz, S., & Fontelo, P. (2007). Utilization of the PICO framework to improve searching PubMed for clinical questions. BMC medical informatics and decision making, 7(1), 16.
 - Hosseini, M. S., Jahanshahlou, F., Akbarzadeh, M. A., Zarei, M., & Vaez-Gharamaleki, Y. (2024). Formulating research questions for evidence-based studies. Journal of medicine, surgery, and public health, 2, 100046.
