@@ -25,7 +25,6 @@ Think of AI as a very knowledgeable assistant. The clearer your instructions are
 
 As a result, the response will usually be much more useful.
 
-
 ### 2. The common types of prompts
 
 #### 2.1 Prompt Chaining
@@ -109,6 +108,24 @@ Example:
 Give each language a score out of 10 and recommend the best choice for a beginner."
 
 The AI will organize the comparison into a table, making the decision much easier.
+
+### Tips for Writing Better AI Prompts
+A simple way to write effective prompts is to remember the following five elements:
+
+**Role → Context → Instructions → Formatting → Boundaries → Examples**
+
+You do not always need every element, but including more details usually helps the AI produce better results.
+
+For example: Instead of using a week prompt like "Teach me Python", you can break it into 6 elements following: 
+
+- **Role**: Act as a Python tutor for beginners.
+- **Context**: I have never programmed before and I am a high school student.
+- **Instructions**: Teach me Python variables and data types with simple explanations and three practice exercises.
+- **Formatting**: Use headings, bullet points, and code examples.
+- **Boundaries**: Keep the lesson under 500 words and avoid advanced programming concepts.
+- **Examples**: Include one real-life example, such as storing a student's name and exam score.
+
+Notice how the second prompt gives the AI much clearer guidance, resulting in a more useful and personalized answer
 
 ### Final Thought
 There is no single "perfect" prompt. The best prompt depends on your goal.
