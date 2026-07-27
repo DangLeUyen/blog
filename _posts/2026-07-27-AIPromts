@@ -1,0 +1,116 @@
+---
+layout: post
+title: "AI Prompts"
+date: 2026-07-27-AIPrompt
+categories: AI-Tools
+---
+
+Artificial Intelligence (AI) has become part of our daily lives. Many students use AI tools such as ChatGPT, Gemini, Claude, and Microsoft Copilot to study, write reports, learn programming, or prepare presentations. However, getting a good answer from AI does not only depend on the AI itself—it also depends on how you ask your question. A well-written prompt can save time and produce much better results.
+
+This post introduces some common prompting techniques that can help you study more effectively, solve problems step by step, and improve your work.
+
+<!--more-->
+
+### 1. What is an AI Prompt?
+A prompt is simply the instruction or question you give to an AI system.
+
+Think of AI as a very knowledgeable assistant. The clearer your instructions are, the better the response will be.
+
+- Poor Prompt: "Tell me about climate change." -> This question is very broad, so the AI may give a long answer that includes information you do not need.
+- Better Prompt: "Explain climate change in simple English for a 15-year-old student. Include three main causes, three effects, and one real-world example." -> The second prompt tells the AI:
+  - Who the audience is
+  - What to explain
+  - How detailed the answer should be
+  - What information to include
+
+As a result, the response will usually be much more useful.
+
+
+### 2. The common types of prompts
+
+#### 2.1 Prompt Chaining
+Prompt chaining means breaking a large task into several smaller prompts. 
+Instead of asking AI to do everything at once, you guide it through each step.
+
+This works especially well for essays, research projects, coding, presentations, or exam preparation.
+
+Example: Imagine you need to write a report about renewable energy.
+- Step 1: Explain what renewable energy is.
+- Step 2: List five types of renewable energy and briefly describe each one.
+- Step 3: Compare solar energy and wind energy using a table.
+- Step 4: Write a 500-word report based on the information above.
+
+By completing one step at a time, AI usually produces more accurate and organized results.
+
+#### 2.2 Chain of Thought
+Chain of Thought prompting encourages AI to explain its reasoning before giving the final answer.
+This is useful for:
+- Mathematics
+- Science
+- Programming
+- Logical reasoning
+- Problem solving
+
+Example: Instead of asking: "Which phone should I buy?"
+
+Try:
+"I have a budget of $400. Compare three smartphones and explain your reasoning step by step before recommending the best option."
+
+Another study example: "Solve this math problem step by step and explain why each step is correct."
+
+Instead of only giving the answer, AI explains how it reaches the solution, making it easier to learn.
+
+Note: For exams or homework, use AI to understand the process rather than simply copying the final answer.
+
+#### 2.3 Tree of Thought
+Sometimes there is no single correct answer. Instead, you want to explore multiple ideas before choosing the best one.
+Tree of Thought prompting asks AI to consider several possible solutions.
+
+This is useful for:
+- Brainstorming
+- Writing stories
+- Business ideas
+- Research topics
+- School projects
+
+Example: "I want to organize a school fundraising event. Brainstorm five different ideas. For each idea, list the advantages, disadvantages, estimated cost, and expected number of participants. Finally, recommend the best option."
+
+Instead of stopping after one idea, AI explores several possibilities.
+
+#### 2.4 Other Useful Prompting Frameworks
+- **Ask before answering**: Sometimes AI does not have enough information to give a good answer.
+
+You can ask it to request clarification first.
+Example: "Before answering, ask me any questions you need to better understand my assignment."
+
+This helps avoid misunderstandings and produces more personalized answers.
+
+- **Self-Critique Prompting**: Ask AI to review and improve its own work.
+
+This is especially useful for essays, emails, reports, and presentations.
+
+Example: "Write a short introduction for my essay about healthy eating. Then review your own writing and suggest three improvements before giving the final version."
+
+Students can also use it to improve grammar.
+"Check my paragraph for grammar mistakes, awkward sentences, and unclear ideas. Then rewrite it using simple English."
+
+- **Decision Matrix**: A decision matrix compares different options using several criteria.
+
+This is useful when choosing between universities, laptops, programming languages, or research topics.
+
+Example:
+"Compare Python, Java, and C++ for beginners. Evaluate them based on:
+- Difficulty
+- Job opportunities
+- Learning resources
+- Speed
+- Best use cases
+
+Give each language a score out of 10 and recommend the best choice for a beginner."
+
+The AI will organize the comparison into a table, making the decision much easier.
+
+### Final Thought
+
+#### Reference
+AI guide course from Udemy https://udemy.com/course/complete-ai-guide/learn/lecture/50609757#overview
