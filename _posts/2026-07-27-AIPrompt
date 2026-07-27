@@ -111,6 +111,20 @@ Give each language a score out of 10 and recommend the best choice for a beginne
 The AI will organize the comparison into a table, making the decision much easier.
 
 ### Final Thought
+There is no single "perfect" prompt. The best prompt depends on your goal.
+
+You can also combine several prompting techniques.
+
+For example:
+- Ask AI to clarify your task first.
+- Use Prompt Chaining to break the work into smaller steps.
+- Apply Tree of Thought to generate several ideas.
+- Use Chain of Thought to explain the reasoning.
+- Finish with Self-Critique Prompting to improve the final result.
+
+The more you practice writing prompts, the better AI becomes at helping you learn. 
+Remember that AI should support your learning—not replace your own thinking. 
+Always check important facts, think critically about the answers, and use AI as a learning partner rather than simply copying its output.
 
 #### Reference
-AI guide course from Udemy https://udemy.com/course/complete-ai-guide/learn/lecture/50609757#overview
+- Complete AI Guide (Udemy). https://www.udemy.com/course/complete-ai-guide/
