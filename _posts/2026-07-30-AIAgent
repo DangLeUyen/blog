@@ -2,8 +2,15 @@
 layout: post
 title: "AI Agent"
 date: 2026-07-30
-categories: AI
+categories: Agentic-AI
 ---
+Artificial Intelligence (AI) has become part of our daily lives. Many of us use tools like ChatGPT, Claude, or Gemini to answer questions, write emails, summarize documents, or generate code.
+
+Recently, a new term has become very popular: AI Agent.
+
+But what exactly is an AI agent? Is it just another chatbot?
+
+In this article, we'll explore what AI agents are, how they work, and why they are different from traditional AI assistants.
 
 <!--more-->
 
@@ -14,4 +21,40 @@ For example:
 
 #### Definition 2: Early 2025 concensus "AI systems where an LLM controls the workflow"
 
-#### Definition 3:
+#### Definition 3: AN LLM with Tools in a Loop to achieve a goal
+
+LLM is Large Language Model ...
+
+### 2. Agentic Systems
+Anthropic distinguish two types:
+- Workflows: are systems where LLMs and tools are orchestrated through predefined code paths.
+In other words, ...
+- Agents are dynamic systems where LLMs direct their oen processes and tool usage, maintaining control over how they accomplish tasks.
+
+Examples: in the case of workflows, you can go in and ask a question ...
+in terms of agents, ...
+
+Five workflow design patterns:
+1. Prompt Chaining:  decompose into fixed sub-tasks
+In -> LLM1 -> Gate -> LLM2 -> LLM3 -> Out
+2. Routing: direct an input into a specialized sub-task, ensuring separation of concerns
+IN -> LLM ROuter -> [LLM1, LLM2 , LLM3] -> OUT
+3. Parallelization: breaking down tasks and running multiple subtasks concurrently
+IN -> Coordinator -> [LLM1, LLM2 , LLM3] -> Aggregator -> OUT
+4. Orchestrator-Worker: complex tasks are broken down dynamically and combined
+IN -> Orchestrator -> [LLM1, LLM2 , LLM3] -> Systhesizer -> OUT
+5. Evaluator-Optimizer: LLM output is validated by another
+IN -> LLM Generator -> (<-rejected) LLM Evaluator (accepted) -> OUT
+
+Agents:
+1. Open-endd
+2. Feedback loops
+3. No fixed path
+HUMAN -> LLM Call ->  Environment (-> Feedback) LLM Call -> STOP
+
+Risk of Agent Frameworks
+unpredictable path, unpredictable output, unpredictable costs
+-> Mitigate the risks: monitor (observability, evals), guardrails
+
+
+
