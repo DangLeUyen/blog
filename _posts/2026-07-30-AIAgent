@@ -15,17 +15,56 @@ In this article, we'll explore what AI agents are, how they work, and why they a
 <!--more-->
 
 ### 1. What is AI Agent?
-#### Definition 1: Sam AltMan defines "AI systems that can do work for you independently" 
+There is no single definition of an AI agent. Different researchers and companies describe it in slightly different ways.
 
-For example:
+#### Definition 1: 
+Sam Altman, CEO of OpenAI, describes AI agents as:
+"AI systems that can do work for you independently" 
 
-#### Definition 2: Early 2025 concensus "AI systems where an LLM controls the workflow"
+Instead of only answering questions, an AI agent can complete a task from beginning to end.
 
-#### Definition 3: AN LLM with Tools in a Loop to achieve a goal
+#### Definition 2: 
+A common definition that emerged in early 2025 is: 
+"AI systems where a Large Language Model (LLM) controls the workflow"
 
-LLM is Large Language Model ...
+This means the LLM decides what steps should happen next instead of following a fixed sequence programmed by humans.
+
+#### Definition 3: 
+A simple way to think about an AI agent is: "An AI agent is a Large Language Model (LLM) that can use tools repeatedly until it achieves a goal."
+
+#### What is a LLM?
+
+LLM stands for Large Language Model.
+A LLM is an AI model trained on a huge amount of text so it can understand and generate human language.
+
+Examples include:
+- ChatGPT
+- Claude
+- Gemini
+- Llama
+
+By itself, a LLM mainly predicts the next word in a sentence.
+
+When connected to tools such as a web browser, calculator, database, or coding environment, it becomes much more powerful.
+
+For example, an AI agent may:
+- Search the web
+- Read PDF files
+- Write code
+- Execute programs
+- Analyze spreadsheets
+- Send emails
+- Create reports
+
+The agent can decide when and how to use these tools while working toward a goal.
 
 ### 2. Agentic Systems
+The AI company Anthropic divides AI systems into two main types:
+- Workflows
+- Agents
+
+Although both use LLMs, they behave quite differently.
+
 Anthropic distinguish two types:
 - Workflows: are systems where LLMs and tools are orchestrated through predefined code paths.
 In other words, ...
