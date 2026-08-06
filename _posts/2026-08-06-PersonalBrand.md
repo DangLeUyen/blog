@@ -4,6 +4,7 @@ title: "Personal Brand"
 date: 2026-08-06
 categories: Soft-Skills
 ---
+
 When I first heard the term **"personal brand,"** I thought it was only for entrepreneurs, influencers, or CEOs. I assumed it meant having thousands of followers on social media or constantly promoting yourself online.
 
 I was wrong.
@@ -13,7 +14,6 @@ Over time, I realized that everyone already has a personal brand. The question i
 <!--more-->
 
 ![personal_brand]({{ "/assets/image/student_tortoise_personal_brand_formula_cover.png" | relative_url }}){: width="700" }
-
 
 ### What is your personal brand?
 
