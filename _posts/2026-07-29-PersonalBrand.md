@@ -12,6 +12,9 @@ Over time, I realized that everyone already has a personal brand. The question i
 
 <!--more-->
 
+![personal_brand]({{ "/assets/image/student_tortoise_personal_brand_formula_cover.png" | relative_url }}){: width="700" }
+
+
 ### What is your personal brand?
 
 A personal brand is the impression people have of you. It's what they think about when they hear your name. It reflects your values, skills, attitude, and how you interact with others.
