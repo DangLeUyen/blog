@@ -25,7 +25,14 @@ As a student, your personal brand isn't defined by your job title or years of ex
 
 These everyday behaviors shape how others see you.
 
-A personal brand is built from your actions, not just your words.
+**Personal Brand = Values + Skills + Actions + Reputation**
+
+- **Values** – What you stand for (e.g., integrity, curiosity, kindness).
+- **Skills** – What you can do well.
+- **Actions** – What you consistently do every day.
+- **Reputation** – How others describe you when you're not in the room.
+
+NOTE: A personal brand is built from your actions, not just your words.
 
 ### Why Should Students Care?
 
