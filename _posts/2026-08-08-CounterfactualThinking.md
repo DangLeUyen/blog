@@ -8,7 +8,9 @@ categories: Soft-Skills
 Have you ever thought:
 
 > *"What if I had prepared earlier?"*
+
 > *"What if I had taken that opportunity?"*
+
 > *"What if I had said something different?"*
 
 We all do this.
@@ -165,13 +167,9 @@ Rumination often keeps us looking backward.
 
 When you notice yourself repeatedly replaying the same situation, try turning the thought into an actionable question.
 
-Instead of: > *"Why did I make that mistake?"*
+Instead of: *"Why did I make that mistake?"* -> Try: *"What can I do differently next time?"*
 
-Try: > *"What can I do differently next time?"*
-
-Instead of: > *"Why didn't they choose me?"*
-
-Try: > *"What feedback could help me improve?"*
+Instead of: *"Why didn't they choose me?"* -> Try: *"What feedback could help me improve?"*
 
 The goal isn't to eliminate "what if" questions.
 
@@ -204,7 +202,9 @@ One of the most powerful changes you can make is to replace:
 
 > **"What if things had been different?"**
 
-with: > **"What can I make different next time?"**
+with: 
+
+> **"What can I make different next time?"**
 
 The first question looks backward.
 
