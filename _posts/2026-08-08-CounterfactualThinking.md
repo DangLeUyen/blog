@@ -97,17 +97,11 @@ It's easy to think:
 
 Instead, try asking three questions:
 
-#### 3.1. What actually happened?
+**Q1. What actually happened?** - Separate the facts from your assumptions.
 
-Separate the facts from your assumptions.
+**Q2. What could I have done differently?** - Identify the parts of the situation that were within your control.
 
-#### 3.2. What could I have done differently?
-
-Identify the parts of the situation that were within your control.
-
-#### 3.3 What will I do differently next time?
-
-Turn the lesson into a specific action.
+**Q3. What will I do differently next time?** - Turn the lesson into a specific action.
 
 This transforms counterfactual thinking from regret into reflection.
 
@@ -119,14 +113,11 @@ You can think about constructive counterfactual thinking like this:
 
 For example:
 
-**What happened:**
-I didn't perform well in my presentation.
+**What happened:** I didn't perform well in my presentation.
 
-**What could have been different:**
-I could have practiced speaking aloud instead of only reviewing my slides.
+**What could have been different:** I could have practiced speaking aloud instead of only reviewing my slides.
 
-**What can I do next?**
-For my next presentation, I'll practice at least twice and ask someone for feedback.
+**What can I do next?** For my next presentation, I'll practice at least twice and ask someone for feedback.
 
 The goal isn't to rewrite the past.
 
@@ -174,21 +165,13 @@ Rumination often keeps us looking backward.
 
 When you notice yourself repeatedly replaying the same situation, try turning the thought into an actionable question.
 
-Instead of:
+Instead of: > *"Why did I make that mistake?"*
 
-> *"Why did I make that mistake?"*
+Try: > *"What can I do differently next time?"*
 
-Try:
+Instead of: > *"Why didn't they choose me?"*
 
-> *"What can I do differently next time?"*
-
-Instead of:
-
-> *"Why didn't they choose me?"*
-
-Try:
-
-> *"What feedback could help me improve?"*
+Try: > *"What feedback could help me improve?"*
 
 The goal isn't to eliminate "what if" questions.
 
@@ -221,9 +204,7 @@ One of the most powerful changes you can make is to replace:
 
 > **"What if things had been different?"**
 
-with:
-
-> **"What can I make different next time?"**
+with: > **"What can I make different next time?"**
 
 The first question looks backward.
 
