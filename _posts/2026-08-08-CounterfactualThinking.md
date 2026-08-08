@@ -27,7 +27,7 @@ But counterfactual thinking isn't always about regret. When used constructively,
 
 <!--more-->
 
-![counterfactual_thinking]({{ "/assets/image/counterfactual_thinking.png" | relative_url }}){: width="500" }
+![counterfactual_thinking]({{ "/assets/image/counterfactual_thinking.png" | relative_url }}){: width="500" .center-image}
 
 ### 1. What Is Counterfactual Thinking?
 
