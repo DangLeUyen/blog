@@ -27,6 +27,8 @@ But counterfactual thinking isn't always about regret. When used constructively,
 
 <!--more-->
 
+![counterfactual_thinking]({{ "/assets/image/counterfactual_thinking.png" | relative_url }}){: width="500" }
+
 ### 1. What Is Counterfactual Thinking?
 
 Counterfactual thinking is the process of imagining an alternative outcome to a real event.
