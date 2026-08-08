@@ -97,15 +97,15 @@ It's easy to think:
 
 Instead, try asking three questions:
 
-**1. What actually happened?**
+#### 3.1. What actually happened?
 
 Separate the facts from your assumptions.
 
-**2. What could I have done differently?**
+#### 3.2. What could I have done differently?
 
 Identify the parts of the situation that were within your control.
 
-**3. What will I do differently next time?**
+#### 3.3 What will I do differently next time?
 
 Turn the lesson into a specific action.
 
