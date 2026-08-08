@@ -13,7 +13,7 @@ Over time, I realized that everyone already has a personal brand. The question i
 
 <!--more-->
 
-![personal_brand]({{ "/assets/image/personal_brand.png" | relative_url }}){: width="500" }
+![personal_brand]({{ "/assets/image/personal_brand.png" | relative_url }}){: width="500" .center-image }
 
 ### What is your personal brand?
 
