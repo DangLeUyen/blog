@@ -6,12 +6,176 @@ categories: AI
 ---
 Artificial Intelligence (AI) has become part of our daily lives. Many of us use tools like ChatGPT, Claude, or Gemini to answer questions, write emails, summarize documents, or generate code.
 
-Recently, we hear a lot of new terms like AI Agent, Agentic AI, or AI Tool. But what are they and what main differences are among them?
+Recently, we hear a lot of new terms like AI model, AI Agent, AI Tool, AI System, or Agentic AI. But what are they, and what are the main differences among them?
 
 <!--more-->
 
-Before diving deeper into formal definition of each of them, let's take an example: 
+Before looking at the formal definitions, let's start with a simple example.
 
+Imagine that you want to plan a weekend trip to a nearby city. You tell an AI system:
+
+> "Plan a two-day trip for me. I like good food and museums, and my budget is $500."
+
+At first, this sounds like a simple question. But to actually complete the task, several different things may need to happen.
+
+### 1. The AI Model: the "brain"
+
+First, we need an **AI model**.
+
+The model is the part that can understand your request and generate a response. For example, it can understand that you want a two-day trip, identify your interests, and suggest possible activities.
+
+You can think of the AI model as the **brain** of the system.
+
+However, the model by itself may not know the latest hotel prices or restaurant opening hours. 
+It also cannot necessarily book a hotel or search a website by itself.
+
+So the model can **think about the problem**, but it may need other components to actually do things.
+
+### 2. The AI Tool: the "hands"
+
+Now suppose the AI can use several tools:
+
+* A web search tool to find current information
+* A map tool to calculate travel times
+* A weather tool to check the forecast
+* A calculator to add up the costs
+* A booking service to find available hotels
+
+These are **AI tools**.
+
+A tool provides a specific capability that an AI system can use. 
+The tool itself usually does not decide what the overall goal is. It simply performs a particular operation when it is asked to do so.
+
+For example:
+
+> "Search for hotels under $200 per night."
+
+The hotel-search tool performs that specific task and returns the results.
+
+So, if the AI model is the **brain**, tools are more like its **hands and senses**. They allow the AI to interact with information and external systems.
+
+### 3. The AI Agent: the "worker"
+
+Now let's make the example more interesting.
+
+Instead of asking the AI one question at a time, imagine telling it:
+
+> "Plan my entire weekend trip within my $500 budget."
+
+The AI needs to figure out what to do.
+
+It might decide to:
+
+1. Find suitable destinations.
+2. Search for hotels.
+3. Check museum opening hours.
+4. Find restaurants.
+5. Calculate travel costs.
+6. Create a two-day schedule.
+7. Check whether the total cost is within the budget.
+
+It may use different tools along the way and decide what to do next based on the results.
+
+This is closer to an **AI Agent**.
+
+An AI agent is an AI system that can pursue a goal by deciding what actions to take, using tools, observing the results, and continuing until the task is completed or it needs help from a human.
+
+The important difference is that a normal AI interaction often looks like:
+
+> **You ask → AI answers**
+
+An agentic interaction looks more like:
+
+> **You give a goal → AI plans → AI acts → AI observes → AI adjusts → AI completes the task**
+
+An agent therefore needs more than just an AI model. It typically combines a model with capabilities such as planning, memory or state, tool use, and the ability to take actions.
+
+### 4. The AI System: the "whole machine"
+
+So far, we have talked about the model, tools, and agent. But what connects all these pieces together?
+
+That is where the idea of an **AI system** comes in.
+
+An AI system is the broader system that brings together the different components needed to solve a problem.
+
+For our travel example, it might look something like this:
+
+```text
+                  AI System
+                      │
+        ┌─────────────┼─────────────┐
+        │             │             │
+    AI Model       AI Agent       AI Tools
+     "Brain"       "Worker"       "Capabilities"
+        │             │             │
+        │             │       ┌─────┼─────┐
+        │             │       │     │     │
+        │             │     Search  Maps  Weather
+        │             │
+        └─────────────┴─────────────┘
+```
+
+The AI model provides the reasoning capability. The agent uses that capability to pursue the goal. The tools allow it to interact with the outside world.
+
+The **AI system** is the whole thing working together.
+
+### 5. Agentic AI: a way of building AI systems
+
+Finally, we come to **Agentic AI**.
+
+Unlike an AI model or an AI tool, Agentic AI is not simply another component that we can point to in the system.
+
+It is better understood as a **way of designing AI systems** where the AI has some degree of autonomy to pursue a goal.
+
+For example, instead of telling the AI exactly what to do:
+
+> "Search for hotels, then search for restaurants, then calculate the cost."
+
+we give it a higher-level goal:
+
+> "Plan my weekend trip within a $500 budget."
+
+The AI can then decide which steps are necessary, which tools to use, and what to do next based on what it discovers.
+
+This is the key idea behind Agentic AI:
+
+> **Give the AI a goal, rather than specifying every step.**
+
+Agentic AI can be implemented using a single agent, but it can also involve multiple specialized agents working together. 
+For example, one agent might research hotels, another might plan activities, and another might review the final itinerary.
+
+This is called a **Multi-Agent System**.
+
+However, Agentic AI and Multi-Agent Systems are not the same thing. A single agent can also behave in an agentic way.
+
+### Putting everything together
+
+Using our travel example, we can now see the differences:
+
+| Concept                | Simple analogy   | Role in our example                                            |
+| ---------------------- | ---------------- | -------------------------------------------------------------- |
+| **AI Model**           | Brain            | Understands the request and reasons about possible solutions   |
+| **AI Tool**            | Hands and senses | Searches the web, checks maps, calculates costs, etc.          |
+| **AI Agent**           | Worker           | Uses the model and tools to pursue the travel-planning goal    |
+| **AI System**          | Whole machine    | Combines the model, agents, tools, data, and other components  |
+| **Agentic AI**         | Way of working   | Allows the system to pursue goals with some degree of autonomy |
+| **Multi-Agent System** | Team of workers  | Multiple agents collaborate on a larger task                   |
+
+The boundaries between these terms are not always perfectly defined. 
+Different researchers and companies may use the terms slightly differently. 
+But this simple mental model can help us understand how modern AI applications are being built.
+
+The most important idea is that **an AI model is not the same thing as an AI agent**.
+
+A model can generate an answer.
+
+A tool can perform a specific operation.
+
+An agent can use models and tools to pursue a goal.
+
+An AI system can combine all of these components.
+
+And Agentic AI describes a broader approach where these systems can operate with some degree of autonomy rather than simply responding to every instruction one step at a time.
 
 
 
