@@ -9,7 +9,7 @@ Self-efficacy is a psychological concept introduced by Albert Bandura in his 199
 
 <!--more-->
 
-![self_efficacy]({{ "/assets/image/self_efficacy.png" | relative_url }}){: width="500" .center-image }
+![self_efficacy]({{ "/assets/image/self_efficacy.png" | relative_url }}){: width="500"}
 
 ### 1. What is Self-Efficacy?
 Simply put, self-efficacy is your belief in your ability to achieve a specific goal or complete a particular task. 
