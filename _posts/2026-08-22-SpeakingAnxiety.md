@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speaking Anxiety and How I Am Learning to Handle It"
-date: 2026-08-23
+date: 2026-08-22
 categories: Soft-Skills
 ---
 
