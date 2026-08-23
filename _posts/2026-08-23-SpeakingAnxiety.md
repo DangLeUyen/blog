@@ -75,7 +75,9 @@ For example:
 
 - Question: “Do you prefer working alone or in a team?”
 - Answer: “I prefer working in a team.”
+
 -> Reason: “I can learn from other people.”
+
 -> Example: “For example, during my last project, my classmates helped me find a problem that I had missed.”
 
 That is already a complete answer.
@@ -132,10 +134,9 @@ I am still a beginner, and I still get nervous when I speak. But I have learned 
 My biggest lesson is simple: **Do not wait until you feel completely ready. Start small and keep practicing.**
 
 You may still have a fast heartbeat. Your hands may still shake. You may sometimes forget a word.
-
 That is okay.
 
-The goal is not to become a perfect speaker. The goal is to become someone who can say, “I am nervous, but I can still speak.”
+The goal is not to become a perfect speaker. The goal is to become someone who can say, **“I am nervous, but I can still speak.”**
 
 ### References
 - Abrahams, M. (2023). Think Faster, Talk Smarter: A Powerful, Practical Guide to Speaking Successfully When You're Put on the Spot. Pan Macmillan.
