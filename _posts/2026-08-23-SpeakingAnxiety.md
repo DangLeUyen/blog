@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speaking Anxiety and How I Am Learning to Handle It"
-date: 2026-08-22
+date: 2026-08-23
 categories: Soft-Skills
 ---
 
@@ -41,7 +41,7 @@ Now I usually prepare three main points instead.
 
 For example, if I am talking about exercise, I might remember:
 
-> Problem → Benefit → Example
+> *Problem → Benefit → Example*
 
 Then I speak naturally around those three ideas.
 
@@ -69,7 +69,7 @@ Job interviews and class discussions can be difficult because we cannot prepare 
 
 I have found one simple structure very useful:
 
-> Answer → Reason → Example
+> *Answer → Reason → Example*
 
 For example:
 
