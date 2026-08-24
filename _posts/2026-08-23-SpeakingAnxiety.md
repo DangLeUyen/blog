@@ -30,7 +30,6 @@ For example, if you forget a word, you can simply say:
 "Let me say that in another way."
 
 Then continue.
-
 Making a small mistake does not mean your speech is bad. In fact, learning how to recover from mistakes is part of becoming a better speaker.
 
 ### 2. Prepare ideas, not every sentence
