@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Antimicrobial Susceptibility Testing (AST)"
+date: 2026-09-06
+categories: Research
+---
+
+Imagine that a person has a bacterial infection. Doctors need to choose an antibiotic that can effectively stop or kill the bacteria causing the infection.
+
+However, not all antibiotics work against all bacteria.
+
+Some bacteria are **susceptible** to an antibiotic, which means the antibiotic is likely to be effective against them. Other bacteria are **resistant**, meaning that the antibiotic may not work.
+
+This is where **Antimicrobial Susceptibility Testing (AST)** becomes important.
+
+<!--more-->
+### What Is Antimicrobial Susceptibility Testing (AST)?
+
+AST is a laboratory test that helps determine which antibiotics are likely to work against a specific type of bacteria.
+
+### A Simple Example
+
+Think of antibiotics as different keys and bacteria as a locked door.
+
+Not every key can open every lock.
+
+AST helps identify which "key" is most likely to work against the bacteria causing an infection.
+
+#### How Does AST Work?
+
+There are different ways to perform AST. One common method is called the **disk diffusion test**.
+
+In this test:
+
+1. Bacteria are grown on a special laboratory plate.
+2. Small disks containing different antibiotics are placed on the plate.
+3. The plate is incubated to allow the bacteria to grow.
+4. Scientists observe how the bacteria grow around each antibiotic disk.
+
+If an antibiotic prevents bacteria from growing, a clear area appears around the disk. This area is called an **inhibition zone**.
+
+The size of the inhibition zone helps microbiologists determine whether the bacteria are susceptible or resistant to that antibiotic.
+
+#### Why Is AST Important?
+
+AST can help healthcare professionals:
+
+* Choose an antibiotic that is likely to work.
+* Avoid using antibiotics that are unlikely to be effective.
+* Support appropriate antibiotic use.
+* Help reduce unnecessary use of broad-spectrum antibiotics.
+
+However, AST results are only one part of clinical decision-making. Doctors also consider the patient's condition, the type and location of the infection, and other clinical information.
+
+#### The Challenge: AST Takes Time
+
+Traditional AST methods usually require bacteria to grow in the laboratory before results can be reported. This process can take approximately 18–24 hours after the bacteria have been isolated.
+
+For serious infections, waiting for these results can be challenging.
+
+This is why researchers and laboratories are interested in **Rapid Antimicrobial Susceptibility Testing (RAST)**, automation, and AI. These approaches aim to provide reliable results earlier while maintaining accuracy.
+
+The main challenge is simple:
+
+**How can we get results faster without making the results less reliable?**
+
+This question is an important area of research in modern clinical microbiology.
+
+**References**
+- [1] Matuschek E, Brown DFJ, Kahlmeter G. Development of the EUCAST disk diffusion antimicrobial susceptibility testing method and its implementation in routine microbiology laboratories. Clin Microbiol Infect. 2014;20:O255-O266. doi:10.1111/1469-0691.12373. 
+- [2] Hombach M, Jetter M, Blöchliger N, Kolesnik-Goldmann N, Böttger EC. Fully automated disc diffusion for rapid antibiotic susceptibility test results: a proof-of-principle study. J Antimicrob Chemother. 2017;72:1659-1668. doi:10.1093/jac/dkx026. Seminal for automated early disc-diffusion reading. 
+- [3] Alonso CA, Domínguez C, Heras J, Mata E, Pascual V, Torres C, Zarazaga M. AntibiogramJ: a tool for analysing images from disk diffusion tests. Comput Methods Programs Biomed. 2017;143:159-169. doi:10.1016/j.cmpb.2017.03.010. Important early computer-vision/automated zone-reading paper. 
+- [4] Jonasson E, Matuschek E, Kahlmeter G. The EUCAST rapid disc diffusion method for antimicrobial susceptibility testing directly from positive blood culture bottles. J Antimicrob Chemother. 2020;75:968-978. doi:10.1093/jac/dkz548. Foundational EUCAST RAST paper. 
+- [5] Jasuja JK, Zimmermann S, Burckhardt I. Evaluation of EUCAST rapid antimicrobial susceptibility testing (RAST) for positive blood cultures in clinical practice using a total lab automation. Eur J Clin Microbiol Infect Dis. 2020;39:1305-1313. doi:10.1007/s10096-020-03846-3. Essential BD Kiestra/TLA RAST study. 
