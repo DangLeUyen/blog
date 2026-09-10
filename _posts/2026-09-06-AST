@@ -66,6 +66,15 @@ The main challenge is simple:
 
 This question is an important area of research in modern clinical microbiology.
 
+#### Automation and AST
+There are two approaches in AST automation: fully-automated and semi-automated systems.
+
+**Fully automated system**
+typically consists of three main components: plate dispension, and image readings.
+
+**Semi automated system** often is software tool which uses AI to automate the third component in fully-automated system.
+
+
 **References**
 - [1] Matuschek E, Brown DFJ, Kahlmeter G. Development of the EUCAST disk diffusion antimicrobial susceptibility testing method and its implementation in routine microbiology laboratories. Clin Microbiol Infect. 2014;20:O255-O266. doi:10.1111/1469-0691.12373. 
 - [2] Hombach M, Jetter M, Blöchliger N, Kolesnik-Goldmann N, Böttger EC. Fully automated disc diffusion for rapid antibiotic susceptibility test results: a proof-of-principle study. J Antimicrob Chemother. 2017;72:1659-1668. doi:10.1093/jac/dkx026. Seminal for automated early disc-diffusion reading. 
