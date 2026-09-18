@@ -66,8 +66,5 @@ We can look for a broader pattern:
 
 This gives the reader a better understanding of the research area.
 
-
-
-
-
-![speaking_anxiety]({{ "/assets/image/speaking-anxiety.png" | relative_url }}){: width="500"}
+### References
+[1] Research Accelerator NZ. Thematic Analysis. Available at: https://researchaccelerator.nz/courses/take/thematic-analysis
