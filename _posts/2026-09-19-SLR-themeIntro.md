@@ -68,3 +68,4 @@ This gives the reader a better understanding of the research area.
 
 ### References
 [1] Research Accelerator NZ. Thematic Analysis. Available at: https://researchaccelerator.nz/courses/take/thematic-analysis
+[2] Braun, V., & Clarke, V. (2012). Thematic analysis. American Psychological Association.
