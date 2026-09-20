@@ -16,11 +16,11 @@ A theme is an important idea or pattern that appears across the studies.
 
 For example, suppose several studies use different machine learning models to predict agitation in people living with dementia. Some studies may use:
 
-physiological data, such as heart rate;
-behavioural data, such as movement or activity;
-environmental data, such as noise;
-clinical information, such as dementia severity or medication;
-multimodal data that combine several types of information.
+- physiological data, such as heart rate;
+- behavioural data, such as movement or activity;
+- environmental data, such as noise;
+- clinical information, such as dementia severity or medication;
+- multimodal data that combine several types of information.
 
 These repeated patterns can be grouped into themes.
 
@@ -34,8 +34,8 @@ A theme is more than simply a topic. It should explain an important pattern or i
 
 For example:
 
-Topic: Machine learning models
-Theme: Machine learning models use different types of patient and environmental data to predict agitation.
+- Topic: Machine learning models
+- Theme: Machine learning models use different types of patient and environmental data to predict agitation.
 
 The second example tells us more about what we found in the literature.
 
